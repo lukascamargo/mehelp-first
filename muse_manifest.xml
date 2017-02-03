@@ -1,0 +1,283 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mehelp.heroku.com" resolutions="1x" timestamp="1486137236574">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="perfil-professor.css" crc="194299921" ref="perfil-professor"/>
+    <file name="index.css" crc="95048133" ref="index"/>
+    <file name="professor-user.css" crc="97433382" ref="professor-user"/>
+    <file name="conte_do.css" crc="79543300" ref="conteúdo"/>
+    <file name="sou-aluno.css" crc="3857918886" ref="sou-aluno"/>
+    <file name="perfil-aluno.css" crc="3914249274" ref="perfil-aluno"/>
+    <file name="aulas.css" crc="212346766" ref="aulas"/>
+    <file name="texto-not_cia.css" crc="509123478" ref="texto-notícia"/>
+    <file name="sobre-mehelp.css" crc="51004205" ref="sobre-mehelp"/>
+    <file name="salvos.css" crc="294415082" ref="salvos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sou-aluno:salvos:aulas:conteúdo:perfil-aluno:perfil-professor:texto-notícia:sobre-mehelp:professor-user"/>
+    <file name="museutils.js" crc="4148063285" ref="index:sou-aluno:salvos:aulas:conteúdo:perfil-aluno:perfil-professor:texto-notícia:sobre-mehelp:professor-user"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sou-aluno:salvos:aulas:conteúdo:perfil-aluno:perfil-professor:texto-notícia:sobre-mehelp:professor-user"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:sou-aluno:salvos:aulas:conteúdo:perfil-aluno:perfil-professor:texto-notícia:sobre-mehelp:professor-user"/>
+    <file name="require.js" crc="4159430777" ref="index:sou-aluno:salvos:aulas:conteúdo:perfil-aluno:perfil-professor:texto-notícia:sobre-mehelp:professor-user"/>
+  </folder>
+  <folder name="images">
+    <file name="mehelp1st page-preenchimento de cor 1c.jpg" crc="3833564959" seo="true" ref="index"/>
+    <file name="mehelp1st page-bem vindo!c.png" crc="4091695571" seo="true" ref="index"/>
+    <file name="mehelp1st page-objeto inteligente de vetorc.png" crc="4262739962" seo="true" ref="index"/>
+    <file name="mehelp1st page-retângulo 1c.png" crc="386917748" seo="true" ref="index"/>
+    <file name="mehelp1st page-retângulo 1 copiarc.png" crc="532706698" seo="true" ref="index"/>
+    <file name="mehelp1st page-quero dar aulasc.png" crc="3944876871" seo="true" ref="index"/>
+    <file name="mehelp1st page-preciso de uma ajudac.png" crc="3854490351" seo="true" ref="index"/>
+    <file name="mehelpsou aluno-sou aluno backgroundc.jpg" crc="4181044943" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-preenchimento de cor 1c.jpg" crc="3923000226" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 1 copiar 3c.png" crc="4160790920" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 2 copiarc.png" crc="3838788031" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-elipse 1 copiarc.png" crc="3772329954" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-por qual aula você procura-c.png" crc="405575295" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 3c.png" crc="478188779" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-camada 2c.jpg" crc="85206272" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-lorem ipsum dolor sit amet consectetur.c.png" crc="3894591668" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-camada 2c2.jpg" crc="361830021" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-lorem ipsum dolor sit amet consectetur. copiarc.png" crc="4104606971" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-camada 2c3.jpg" crc="85206272" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-lorem ipsum dolor sit amet consectetur.c2.png" crc="3894591668" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-camada 2c4.jpg" crc="361830021" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-lorem ipsum dolor sit amet consectetur. copiarc2.png" crc="4104606971" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiarc.png" crc="480440727" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 6c.png" crc="505656641" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 7c.png" crc="480440727" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 7c2.png" crc="3892168755" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-conteúdoc.png" crc="281344853" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 2c.png" crc="214818822" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 5c.png" crc="4140108774" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-aula de física para fundamental iic.png" crc="401586239" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-r$ 50c.png" crc="3865581891" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-4,5-5c.png" crc="4084328145" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 2c2.png" crc="4071810720" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 6c.png" crc="3807618088" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-aula de algebra para emc.png" crc="263057503" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-r$ 45c.png" crc="519889339" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-4,1-5c.png" crc="38808246" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 2c3.png" crc="4199533992" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 8c.png" crc="3831275189" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-aula de quimica para emc.png" crc="454895321" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-r$ 70c.png" crc="3941262043" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-4,8-5c.png" crc="3997019279" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 2c4.png" crc="368198684" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 7c.png" crc="350442113" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-aula de português para fund ic.png" crc="134858131" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-r$ 30c.png" crc="531371489" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-3,9-5c.png" crc="3900723448" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-top mehelpc.png" crc="3851815200" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 2c.png" crc="288244571" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 3c.png" crc="505656641" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 4c.png" crc="480440727" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1 copiar 5c.png" crc="505656641" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-retângulo 1 copiar 2c.png" crc="4226940236" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-explorarc.png" crc="3773261379" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 2c.png" crc="4209052663" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-elipse 1c.png" crc="10725843" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-salvosc.png" crc="137361702" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 1c.png" crc="3966810615" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-objeto inteligente de vetorc.png" crc="418241463" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-aulas c.png" crc="3781569489" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-objeto inteligente de vetorc2.png" crc="4198767468" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-conteúdoc2.png" crc="4239665263" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 10c.png" crc="317003339" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 11c.png" crc="230680087" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-perfilc.png" crc="213051177" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-forma 4c.png" crc="3762273438" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-ver tudo...c.png" crc="4024568339" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsou aluno-ver tudo... copiarc.png" crc="4024568339" seo="true" ref="sou-aluno"/>
+    <file name="mehelpsalvos-salvosc.png" crc="72940330" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-aulasc.png" crc="348270030" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-notíciasc.png" crc="42014209" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-professoresc.png" crc="4192007558" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-forma 12c.png" crc="503379357" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-forma 13c.png" crc="497738325" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-forma 14c.png" crc="503379357" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-forma 15c.png" crc="151619129" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-retângulo 2c.png" crc="214818822" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-forma 5c.png" crc="4140108774" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-4,5-5c.png" crc="4084328145" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-forma 1 copiar 2c.png" crc="288244571" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-aula de física para fundamental iic.png" crc="401586239" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-r$ 50c.png" crc="3865581891" seo="true" ref="salvos"/>
+    <file name="mehelpsalvos-retângulo 1 copiar 2c.png" crc="4226940236" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-explorarc.png" crc="3773261379" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-forma 2c.png" crc="3793871946" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-elipse 1c.png" crc="10725843" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-salvosc2.png" crc="137361702" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-forma 1c.png" crc="3927953125" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-objeto inteligente de vetorc.png" crc="418241463" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-aulas c.png" crc="3781569489" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-objeto inteligente de vetorc2.png" crc="4198767468" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-conteúdoc.png" crc="4239665263" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-forma 10c.png" crc="3841060317" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-forma 11c.png" crc="230680087" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-perfilc.png" crc="213051177" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpsalvos-forma 4c.png" crc="4029069764" seo="true" ref="salvos:texto-notícia"/>
+    <file name="mehelpaula-aula backgroundc.jpg" crc="399613665" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 4c.png" crc="478188779" seo="true" ref="aulas"/>
+    <file name="mehelpaula-lorem ipsum dolor sit amet, consectetur adipiscing elit. phaselc.png" crc="74406110" seo="true" ref="aulas"/>
+    <file name="mehelpaula-aula de física para fundamental iic.png" crc="477045138" seo="true" ref="aulas"/>
+    <file name="mehelpaula-descriçãoc.png" crc="3966281276" seo="true" ref="aulas"/>
+    <file name="mehelpaula-sobre o helperc.png" crc="4013502942" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 2 copiarc.png" crc="3772374413" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 5 copiarc.png" crc="139344472" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 3c.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 3c2.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-ver perfil completoc.png" crc="9784203" seo="true" ref="aulas"/>
+    <file name="mehelpaula-roberto copiarc.png" crc="450557372" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 6 copiar 2c.png" crc="469391501" seo="true" ref="aulas"/>
+    <file name="mehelpaula-camada 3 copiarc.png" crc="361790784" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 6 copiar 2c2.png" crc="4238175482" seo="true" ref="aulas"/>
+    <file name="mehelpaula-4,5-5 copiarc.png" crc="4008032816" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 7c.png" crc="299165502" seo="true" ref="aulas"/>
+    <file name="mehelpaula-selecione o horário-c.png" crc="4724518" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 4c.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-15-30 - 16-30 c.png" crc="4286034752" seo="true" ref="aulas"/>
+    <file name="mehelpaula-elipse 2c.png" crc="453319083" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 5c.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-16-30 - 17-30 c.png" crc="324510900" seo="true" ref="aulas"/>
+    <file name="mehelpaula-elipse 2 copiarc.png" crc="251610990" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 6c.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-18-30 - 19-30 c.png" crc="4195709496" seo="true" ref="aulas"/>
+    <file name="mehelpaula-elipse 2 copiar 2c.png" crc="251610990" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 7c.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-20-30 - 21-30 c.png" crc="102596393" seo="true" ref="aulas"/>
+    <file name="mehelpaula-elipse 2 copiar 3c.png" crc="251610990" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 16 copiar 8c.png" crc="3906077485" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 8c.png" crc="4091481207" seo="true" ref="aulas"/>
+    <file name="mehelpaula-confirmar aulac.png" crc="4263757969" seo="true" ref="aulas"/>
+    <file name="mehelpaula-retângulo 1 copiar 2c.png" crc="4226940236" seo="true" ref="aulas"/>
+    <file name="mehelpaula-explorarc.png" crc="3773261379" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 2c.png" crc="3793871946" seo="true" ref="aulas"/>
+    <file name="mehelpaula-elipse 1c.png" crc="10725843" seo="true" ref="aulas"/>
+    <file name="mehelpaula-salvosc.png" crc="137361702" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 1c.png" crc="3971347925" seo="true" ref="aulas"/>
+    <file name="mehelpaula-objeto inteligente de vetorc.png" crc="418241463" seo="true" ref="aulas"/>
+    <file name="mehelpaula-aulas c.png" crc="3781569489" seo="true" ref="aulas"/>
+    <file name="mehelpaula-objeto inteligente de vetorc2.png" crc="4198767468" seo="true" ref="aulas"/>
+    <file name="mehelpaula-conteúdoc.png" crc="4239665263" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 10c.png" crc="3841060317" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 11c.png" crc="230680087" seo="true" ref="aulas"/>
+    <file name="mehelpaula-perfilc.png" crc="213051177" seo="true" ref="aulas"/>
+    <file name="mehelpaula-forma 4c.png" crc="4029069764" seo="true" ref="aulas"/>
+    <file name="mehelpconteúdo-conteúdoc.png" crc="4118885079" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-1c.png" crc="68066987" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 1 copiar 6c.png" crc="505656641" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-camada 2c.jpg" crc="361830021" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 1 copiarc.png" crc="505656641" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-camada 2c2.jpg" crc="85206272" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-lorem ipsum dolor sit amet consectetur.c.png" crc="3894591668" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-lorem ipsum dolor sit amet consectetur. copiarc.png" crc="4104606971" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-camada 2c3.jpg" crc="361830021" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 1 copiar 7c.png" crc="333623923" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 1 copiar 7c2.png" crc="4234848692" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-lorem ipsum dolor sit amet consectetur.c2.png" crc="3894591668" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-lorem ipsum dolor sit amet consectetur. copiarc2.png" crc="4104606971" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-retângulo 1 copiar 2c.png" crc="4226940236" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-explorarc.png" crc="3773261379" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 2c.png" crc="4209052663" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-elipse 1c.png" crc="10725843" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-salvosc.png" crc="137361702" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 1c.png" crc="64469461" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-objeto inteligente de vetorc.png" crc="418241463" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-aulas c.png" crc="3781569489" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-objeto inteligente de vetorc2.png" crc="4198767468" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-conteúdoc2.png" crc="4239665263" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 10c.png" crc="317003339" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 11c.png" crc="230680087" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-perfilc.png" crc="213051177" seo="true" ref="conteúdo"/>
+    <file name="mehelpconteúdo-forma 4c.png" crc="364034248" seo="true" ref="conteúdo"/>
+    <file name="mehelpperfil aluno-camada 3.png" crc="213911679" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-retângulo 6 copiar.png" crc="8355356" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-retângulo 5.png" crc="311050783" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 16.png" crc="47240705" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 16 copiar.png" crc="312286834" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-quero dar aulas.png" crc="462977174" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 17.png" crc="4070269204" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-retângulo 1 copiar 2.png" crc="3934565765" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-explorar.png" crc="4113388690" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 2.png" crc="3924290324" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-elipse 1.png" crc="3785812627" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-salvos.png" crc="220415211" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 1.png" crc="3872775026" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 16 copiar 2.png" crc="318477426" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-objeto inteligente de vetor.png" crc="4018676248" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-aulas .png" crc="162795042" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-objeto inteligente de vetor2.png" crc="305426029" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-conteúdo.png" crc="498212146" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 10.png" crc="461057843" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 11.png" crc="320596142" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-perfil.png" crc="4291575942" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-forma 4.png" crc="93681150" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-roberto.png" crc="4013655700" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-retângulo 6.png" crc="311668522" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-sobre a mehelp.png" crc="4044642972" seo="true" ref="perfil-aluno"/>
+    <file name="mehelpperfil aluno-4,5-5 copiar 2.png" crc="242405419" seo="true" ref="perfil-aluno"/>
+    <file name="mehelptexto notícia-lorem ipsum dolor sit amet consectetur. copiarc.png" crc="350712379" seo="true" ref="texto-notícia"/>
+    <file name="mehelptexto notícia-retângulo 4c.png" crc="478188779" seo="true" ref="texto-notícia"/>
+    <file name="mehelptexto notícia-camada 4c.jpg" crc="14003232" seo="true" ref="texto-notícia"/>
+    <file name="mehelptexto notícia-lorem ipsum dolor sit amet, consectetur adipiscing elit. phaselc.png" crc="4003018454" seo="true" ref="texto-notícia"/>
+    <file name="mehelp sobre mehelp-retângulo 9 copiarc.png" crc="330400670" seo="true" ref="sobre-mehelp"/>
+    <file name="mehelp sobre mehelp-sobre a mehelpc.png" crc="247604344" seo="true" ref="sobre-mehelp"/>
+    <file name="mehelp sobre mehelp-lorem ipsum dolor sit amet, consectetur adipiscing elit. phaselc.png" crc="4166017170" seo="true" ref="sobre-mehelp"/>
+    <file name="mehelp sobre mehelp-forma 18c.png" crc="103133774" seo="true" ref="sobre-mehelp"/>
+    <file name="mehelp sobre mehelp-forma 18 copiarc.png" crc="462471606" seo="true" ref="sobre-mehelp"/>
+    <file name="mehelpuser professor-forma 16 copiar 3c.png" crc="393552852" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-4,5-5 copiarc.png" crc="4008032816" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-robertoc.png" crc="450557372" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 6 copiar 2c.png" crc="113094449" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-camada 3 copiarc.png" crc="361790784" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 6 copiar 2c2.png" crc="3869268072" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 16 copiar 3c2.png" crc="393552852" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-descriçãoc.png" crc="3966281276" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-lorem ipsum dolor sit amet, consectetur adipiscing elit. phaselc.png" crc="74406110" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-aulas disponíveis-c.png" crc="4068109368" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 2c.png" crc="4071810720" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 6c.png" crc="4134079092" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-4,1-5c.png" crc="38808246" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 2c2.png" crc="214818822" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 5c.png" crc="4140108774" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-4,5-5c.png" crc="4084328145" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-aula de física para fundamental iic.png" crc="401586239" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-aula de algebra para emc.png" crc="263057503" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-r$ 50c.png" crc="3870324573" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-r$ 45c.png" crc="370279194" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 2c3.png" crc="368198684" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 7c.png" crc="350442113" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-3,9-5c.png" crc="3900723448" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 2c4.png" crc="4199533992" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 8c.png" crc="3831275189" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-4,8-5c.png" crc="3997019279" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-aula de quimica para emc.png" crc="454895321" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-aula de português para fund ic.png" crc="134858131" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-r$ 70c.png" crc="4198850165" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-r$ 30c.png" crc="415295304" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 1c.png" crc="3966810615" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-objeto inteligente de vetorc.png" crc="517515707" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-aulas c.png" crc="3781569489" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-objeto inteligente de vetorc2.png" crc="3851892068" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-conteúdoc.png" crc="4239665263" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 10c.png" crc="317003339" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 11c.png" crc="230680087" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-perfilc.png" crc="213051177" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-retângulo 1 copiar 2c.png" crc="4229907588" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-explorarc.png" crc="3773261379" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 2c.png" crc="4209052663" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-elipse 1c.png" crc="10725843" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-salvosc.png" crc="137361702" seo="true" ref="professor-user"/>
+    <file name="mehelpuser professor-forma 4c.png" crc="3762273438" seo="true" ref="professor-user"/>
+  </folder>
+  <file name="index.html" crc="428751486" seo="true" mt="1486134978331" redirect="true"/>
+  <file name="sou-aluno.html" crc="37941516" seo="true" mt="1486135056916" redirect="true"/>
+  <file name="salvos.html" crc="183244856" seo="true" mt="1486135226227" redirect="true"/>
+  <file name="aulas.html" crc="3868326551" seo="true" mt="1486135560750" redirect="true"/>
+  <file name="conteúdo.html" crc="53520103" seo="true" mt="1486135710386" redirect="true"/>
+  <file name="perfil-aluno.html" crc="4235213149" seo="true" mt="1486136160188" redirect="true"/>
+  <file name="perfil-professor.html" crc="4260990781" seo="true" mt="1486134824615" redirect="false"/>
+  <file name="texto-notícia.html" crc="270591404" seo="true" mt="1486136748180" redirect="true"/>
+  <file name="sobre-mehelp.html" crc="481578934" seo="true" mt="1486136832281" redirect="true"/>
+  <file name="professor-user.html" crc="3982718795" seo="true" mt="1486137149280" redirect="true"/>
+</manifest>
